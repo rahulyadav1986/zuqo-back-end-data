@@ -1,0 +1,70 @@
+{
+    "sidemenu":[
+        {
+            "id": 1,
+            "labelName": "Dashboard",
+            "icon": "/assets/dashboard/side_panel/dashboard.png",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "labelName": "Interaction Center",
+            "icon": "/assets/dashboard/side_panel/interactioncenter.png",
+            "link": "interaction-center"
+        },
+        {
+            "id": 3,
+            "labelName": "Ticket Management",
+            "icon": "/assets/dashboard/side_panel/inbox.png",
+            "link": "ticket-management"
+        },
+        {
+            "id": 4,
+            "labelName": "Leads",
+            "icon": "/assets/dashboard/side_panel/leads.png",
+            "link": "leads"
+        },
+        {
+            "id": 5,
+            "labelName": "Missed Calls",
+            "icon": "/assets/dashboard/side_panel/missedcalls.png",
+            "link": "missed-calls"
+        },
+        {
+            "id": 6,
+            "labelName": "Voice Mail",
+            "icon": "/assets/dashboard/side_panel/voicemail.png",
+            "link": "voice-mail"
+        },
+        {
+            "id": 7,
+            "labelName": "Call Backs",
+            "icon": "/assets/dashboard/side_panel/callbacks.png",
+            "link": "call-backs"
+        },
+        {
+            "id": 8,
+            "labelName": "VRM",
+            "icon": "/assets/dashboard/side_panel/interactioncenter.png",
+            "link": "vrm"
+        },
+        {
+            "id": 9,
+            "labelName": "Email",
+            "icon": "/assets/dashboard/side_panel/email.png",
+            "link": "email"
+        },
+        {
+            "id": 10,
+            "labelName": "Reports",
+            "icon": "/assets/dashboard/side_panel/reports.png",
+            "link": "reports"
+        },
+        {
+            "id": 11,
+            "labelName": "Settings",
+            "icon": "/assets/dashboard/side_panel/settings.png",
+            "link": "settings"
+        }
+    ]
+}
